@@ -1,6 +1,6 @@
 # user-service
 
-A user management service with user registration, login, logout and session handling features.
+A user management service with user registration, login, logout and session handling features..
 
 [Live Demo](https://user-service-react-app.herokuapp.com/ 'user-service')
 
